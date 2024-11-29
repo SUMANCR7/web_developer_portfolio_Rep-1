@@ -1,0 +1,40 @@
+/* common shared styles */
+body{
+  font-family: sans-serif;
+}
+
+/* Nav releted design */
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-title{
+  font-size: 45px;
+  font-weight: 800;
+  color: #181818;
+}
+.color-orange{
+  color: orangered;
+}
+nav > ul{
+  display: flex;
+  align-items: center;
+}
+nav li{
+  list-style: none;
+  margin-right: 50px;
+}
+nav a{
+  text-decoration: none;
+  color: #474747;
+}
+.hiree{
+  background: orangered;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 35px;
+}
