@@ -8,6 +8,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0 200px;
 }
 .nav-title{
   font-size: 45px;
@@ -37,4 +38,37 @@ nav a{
   font-size: 20px;
   font-weight: 600;
   padding: 15px 35px;
+}
+
+
+
+/* header related styles */
+.headerr{
+  background: #FFF8F3;
+}
+.banner{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.downloadd {
+  background: orangered;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 35px;
+}
+.contactt{
+  background: orangered;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 35px;
+}
+.banner .profile-pic{
+width: 500px;
 }
