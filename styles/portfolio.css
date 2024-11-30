@@ -169,10 +169,43 @@ color: #757575;
 /* Resume section styles */
 
 .resume-container{
-  /* display: flex; */
+  display: flex;
+  gap: 50px;
 }
 .resume-column-title{
 color: #474747;
 font-size: 30px;
 font-weight: 700;
+}
+.resume-item-des{
+  color: #757575;
+
+}
+.resume-item-insti{
+  color: #757575;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+.resume-item-title{
+  font-size: 25pxpx;
+  color: #474747;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resume-container hr{
+  margin: 30px;
+}
+.dwn{
+  text-align: center;
+  margin-top: 50px;
+}
+.dwn-cv{
+  background: orangered;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 35px;
+  
 }
