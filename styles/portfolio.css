@@ -209,3 +209,11 @@ font-weight: 700;
   padding: 15px 35px;
   
 }
+
+/* footer related styles */
+footer{
+  display: flex;
+  background: #FFF8F3;
+  padding: 130px 200px;
+  margin-top: 100px;
+}
