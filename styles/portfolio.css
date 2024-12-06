@@ -217,3 +217,29 @@ footer{
   padding: 130px 200px;
   margin-top: 100px;
 }
+.footer-column{
+  width: 50%;
+  gap: 100px;
+}
+.contact input[type="text"], .contact input[type="email"], textarea{
+  display: block;
+  margin-bottom: 25px;
+  padding: 18px 35px;
+  color: #757575;
+  border-radius: 5px;
+  background: #FFF;
+  width: 100%;
+  border: 0;
+}
+.sub-btn{
+  background: orangered;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 35px;
+}
+.social-links a{
+  margin-right: 20px;
+}
